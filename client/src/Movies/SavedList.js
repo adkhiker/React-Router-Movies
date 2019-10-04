@@ -1,4 +1,4 @@
-import React from 'react';
+import React from "react";
 import { Link } from "react-router-dom";
 
 const SavedList = props => (
@@ -15,8 +15,5 @@ const SavedList = props => (
     </div>
   </div>
 );
-
-
-
 
 export default SavedList;
